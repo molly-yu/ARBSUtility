@@ -21,7 +21,7 @@
     "emailjs-com": "^2.6.3",
     "http-server": "^0.12.3",
     "jsmpeg": "^1.0.0",
-    "moment-timezone": "^0.5.31",
+    "moment-timezone": "^0.5.35",
     "node-rtsp-stream": "0.0.9",
     "node-rtsp-stream-es6": "^1.0.7",
     "prop-types": "^15.7.2",
